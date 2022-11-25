@@ -37,3 +37,4 @@ print(f"скорость {hero.getspeed()}\n"
       f"сила {hero.getpower()}\n"
       f"летучесть {hero.getfly()}\n"
       f"супер сила {hero.getads()}")
+print()
